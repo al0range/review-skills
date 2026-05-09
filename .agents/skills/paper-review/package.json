@@ -1,0 +1,22 @@
+{
+  "name": "paper-review",
+  "version": "2.0.0",
+  "description": "Rubric-driven academic paper review — strictly follows venue review criteria, limitation-finding via domain surveys, multi-agent evidence aggregation, pre-submission feedback. Fork of BESSER-PEARL/agent-skills research-paper-review.",
+  "author": "al0range (fork of BESSER-PEARL/agent-skills)",
+  "contributors": [
+    "Armen Sulejmani (original)",
+    "Ivan David Alfonso (original)",
+    "Jordi Cabot (original)"
+  ],
+  "keywords": [
+    "skill",
+    "research",
+    "paper-review",
+    "academic",
+    "peer-review",
+    "literature-review",
+    "pre-submission",
+    "numerical-consistency"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "paper-review": {
+      "source": "al0range/review-skills",
+      "sourceType": "github",
+      "skillPath": "paper-review/SKILL.md",
+      "computedHash": "c39db4d4b5718b6d81fac5a079c7a415509035420c640d82ff76ae4483d409b9"
+    }
+  }
+}

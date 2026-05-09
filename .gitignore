@@ -1,0 +1,8 @@
+# Non-skill workspace files
+*.pdf
+*.png
+*.jpg
+_paper_text.txt
+MM review.md
+.sisyphus/
+.agents/skills/research-paper-review/
